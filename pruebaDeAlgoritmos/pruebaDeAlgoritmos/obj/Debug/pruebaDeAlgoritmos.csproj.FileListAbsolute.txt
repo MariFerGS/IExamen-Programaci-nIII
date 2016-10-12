@@ -1,0 +1,6 @@
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\bin\Debug\pruebaDeAlgoritmos.exe.config
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\bin\Debug\pruebaDeAlgoritmos.exe
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\bin\Debug\pruebaDeAlgoritmos.pdb
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\obj\Debug\pruebaDeAlgoritmos.csprojResolveAssemblyReference.cache
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\obj\Debug\pruebaDeAlgoritmos.exe
+C:\Users\M.Fernanda\Desktop\pruebaDeAlgoritmos\pruebaDeAlgoritmos\obj\Debug\pruebaDeAlgoritmos.pdb
